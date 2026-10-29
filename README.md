@@ -1,7 +1,7 @@
 Please note this is a learning project, and does not constitute for established and verified scientific findings.
 
 Description:
-This repository contains an end-to-end neuroimaging data analysis pipeline using the Human Connectome Project (HCP) parcellated task-fMRI dataset provided by neuromatch academy Computational Neuroscience Summer School 2026. 
+This repository contains an neuroimaging data analysis pipeline using the Human Connectome Project (HCP) parcellated task-fMRI dataset provided by neuromatch academy Computational Neuroscience Summer School 2026. 
 
 Dataset: The HCP dataset comprises task-based fMRI from a large sample of human subjects. The NMA-curated dataset includes time series data that has been preprocessed and spatially-downsampled by aggregating within 360 regions of interest. In their google colab notebook, NMA provides code for downloading the data and doing some basic visualisation and processing.
 The data folder has the following organisation:
